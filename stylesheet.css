@@ -1,0 +1,30 @@
+body{
+	background-color: blue;
+}
+
+html{
+	margin: 20px;
+	font-family: Helvetica;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+img{
+	border: 10px solid purple;
+	margin: 8px;
+}
+
+h3{
+	margin-top: 15px;
+	margin-left: 1px;
+}
+
+ol{
+	border: 5px solid red;
+}
